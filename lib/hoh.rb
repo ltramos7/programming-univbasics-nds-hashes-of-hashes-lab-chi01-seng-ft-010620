@@ -49,7 +49,10 @@ def naming_system
       sub_category: {
         label: "Class",
         sub_category: {
-          label: "Order"
+          label: "Order",
+          sub_category: {
+            label: "Genus"
+          }
         }
       }
     }
